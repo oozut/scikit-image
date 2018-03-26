@@ -26,3 +26,8 @@ doc/release/_release_notes_for_docs.txt
 doc/gh-pages
 wheels
 skimage/morphology/_skeletonize_3d_cy.pyx
+/.vs/scikit-image/v15/.suo
+/.vs/scikit-image/v15/Browse.VC.db
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/scikit-image/v15/Browse.VC.opendb

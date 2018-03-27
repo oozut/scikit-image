@@ -31,3 +31,4 @@ skimage/morphology/_skeletonize_3d_cy.pyx
 /.vs/ProjectSettings.json
 /.vs/slnx.sqlite
 /.vs/scikit-image/v15/Browse.VC.opendb
+/.vs/VSWorkspaceState.json
